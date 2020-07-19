@@ -5,12 +5,13 @@ class SearchBar extends Component{
 
     onInputChange =(event) => {
         this.setState({term: event.target.value});
+        // console.log("input change")
     };
 
     onFormSubmit = event => {
         event.preventDefault();
 
-        //TODO: Make sure we call callback from parent component
+        this.props.onFormSubmit(this.state.term);        
     };
 
     render(){

@@ -11,7 +11,7 @@
 # production
 /build
 
-/src/apis/youtube.js
+/src/apis/key.js
 # misc
 .DS_Store
 .env.local
