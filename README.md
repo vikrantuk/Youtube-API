@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dc93de17-20bb-43b0-a023-5eaecce61c21/deploy-status)](https://app.netlify.com/sites/uvideoapi/deploys)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
